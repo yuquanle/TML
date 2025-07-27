@@ -34,8 +34,6 @@ TML/
 ├── dataset
 │   ├── civilJP_dataset.py
 │   └── __init__.py
-├── figs
-│   └── teaserFig.png
 ├── inferflow
 │   └── KnowAugLawformerCivilJP_infer.py
 ├── models
@@ -50,8 +48,6 @@ TML/
 │   └── tensorboard_demo.ipynb
 ├── trainerflow
 │   └── KnowAugLawformerCivilJP_trainer.py
-├── tree.md
-├── tree.sh
 └── utils
     ├── CivilJP_utils.py
     ├── __init__.py
