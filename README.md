@@ -44,8 +44,6 @@ TML/
 ├── scripts
 │   ├── run_infer_KnowAugLawformer_CivilJP.sh
 │   └── run_train_KnowAugLawformer_CivilJP.sh
-├── tools
-│   └── tensorboard_demo.ipynb
 ├── trainerflow
 │   └── KnowAugLawformerCivilJP_trainer.py
 └── utils
